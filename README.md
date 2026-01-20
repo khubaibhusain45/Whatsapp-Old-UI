@@ -86,5 +86,4 @@ TabBar(
 - Structuring complex UI layouts cleanly
 - Applying consistent Material theming
 ## 🧑‍💻 Author
-Khubaib Husain
-Flutter Developer
+Khubaib Husain | Flutter Developer
